@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Creator-AssetBundleAPI",
+  "id": "7ec17861-8078-47f1-96c0-13583b7431ac",
+  "version": "2.4.10",
+  "isNew": false
+}
